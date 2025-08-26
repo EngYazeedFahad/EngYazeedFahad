@@ -1,4 +1,4 @@
-Hey there! I'm Yazeed 👋
+Hey there! I'm Yazeed
 
 Industrial and system Engineer
 
