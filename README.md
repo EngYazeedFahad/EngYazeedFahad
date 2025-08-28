@@ -4,7 +4,7 @@ Industrial and system Engineer
 
 A Little About Me:
 
-My background in Industrial Engineering taught me how to make data-driven decisions—now I’m interested in using ML to solve real problems.
+My background in Industrial Engineering taught me how to make data-driven decisions ,now I’m interested in using ML to solve real problems.
 
 Whether it’s supervised or unsupervised learning, I enjoy experimenting with algorithms to see what insights I can uncover.
 
