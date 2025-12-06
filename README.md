@@ -1,8 +1,8 @@
-Hey there! I'm Yazeed
+I'm Yazeed
 
 Industrial and system Engineer
 
-A Little About Me:
+Concerns:
 
 My background in Industrial Engineering taught me how to make data-driven decisions ,now I’m interested in using ML to solve real problems.
 
@@ -18,7 +18,7 @@ Data & ML: Cleaning messy data - Analysis - Predictive modeling
 
 What I’m Up To
 
-Exploring deeper into ML—especially how to fine-tune models for better accuracy.
+Exploring deeper into ML especially how to fine tune models for better accuracy.
 
 
 Reach out if you want to talk data, engineering, or ML
