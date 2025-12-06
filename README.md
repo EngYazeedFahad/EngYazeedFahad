@@ -21,6 +21,6 @@ What I’m Up To
 Exploring deeper into ML—especially how to fine-tune models for better accuracy.
 
 
-📩 Reach out if you want to talk data, engineering, or ML
+Reach out if you want to talk data, engineering, or ML
 
-🔗 LinkedIn: Yazeed Alzaidi
+LinkedIn: Yazeed Alzaidi
