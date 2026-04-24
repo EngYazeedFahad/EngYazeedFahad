@@ -1,4 +1,3 @@
-I'm Yazeed
 
 Industrial and system Engineer
 
